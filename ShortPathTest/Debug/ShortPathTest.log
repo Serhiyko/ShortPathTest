@@ -1,0 +1,8 @@
+﻿  main.cpp
+  ShortestPath.cpp
+c:\users\serjo\onedrive\документи\jobs\shortpathtest\shortpathtest\shortestpath.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\serjo\onedrive\документи\jobs\shortpathtest\shortpathtest\shortestpath.cpp(73): warning C4018: '>': signed/unsigned mismatch
+c:\users\serjo\onedrive\документи\jobs\shortpathtest\shortpathtest\shortestpath.cpp(77): warning C4018: '>': signed/unsigned mismatch
+c:\users\serjo\onedrive\документи\jobs\shortpathtest\shortpathtest\shortestpath.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ShortPathTest.vcxproj -> C:\Users\serjo\OneDrive\Документи\Jobs\ShortPathTest\Debug\ShortPathTest.exe
